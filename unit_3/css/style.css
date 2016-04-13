@@ -3,9 +3,17 @@ body {
 	background-image: url("puerto.jpg");
 	background-size: cover;
 }
+
+.hero-img {
+	background:
+	url("http://imgur.com/ueu1gts") no repeat;
+	background-size: cover;
+}
+
 hr {
 	width: 400px;
 }
+
 h1, h3 {
 	font-family: Helvetica;
 	font-weight: normal;
