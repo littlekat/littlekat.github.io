@@ -1,10 +1,13 @@
 body {
 	text-align: center;
-	background: url("http://imgur.com/ueu1gts");
+	background-image: url("puerto.jpg");
 	background-size: cover;
 }
+hr {
+	width: 400px;
+}
 h1, h3 {
-	font-family: Arial, sans-serif;
+	font-family: Helvetica;
 	font-weight: normal;
 	text-decoration: underline;
 	text-transform: uppercase;
@@ -22,5 +25,8 @@ a{
 	font-style: italic;
 	text-decoration: none;
 }
+
+
+
 
 
